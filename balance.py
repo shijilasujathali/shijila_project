@@ -1,6 +1,6 @@
 # Simple Bank Balance Checker
 
-balance = 60000
+balance = 6000023
 correct_pin = 1234
 
 pin = int(input("Enter your 4-digit PIN: "))
